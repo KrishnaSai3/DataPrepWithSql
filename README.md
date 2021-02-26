@@ -1,1 +1,1 @@
-This Folder contains SQL scripts for challenges by https://preppindata.blogspot.com/p/the-challenge-index.html
+This Folder contains solution SQL scripts for challenges posted at https://preppindata.blogspot.com/p/the-challenge-index.html
